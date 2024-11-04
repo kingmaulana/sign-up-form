@@ -67,6 +67,7 @@ body {
 .logo p {
     color: white;
     font-size: 7vw;
+      font-family: "Silkscreen";
 }
 
 /* Right Side */
@@ -155,3 +156,7 @@ button:hover {
     opacity: 0.8;
     cursor: pointer;
 }
+
+/* input:invalid {
+    border: 1px solid red;
+} */
